@@ -16,7 +16,7 @@ file_item_path = os.path.join(os.path.dirname(__file__),"data.csv")
 host = "smtp.gmail.com"
 port = 587
 username = "tzuhaowang.wfn@gmail.com"
-password = "Hello!2345"
+password = "*****"
 from_email = username
 to_list = ["tzuhaowang.wfn@gmail.com"]
 
