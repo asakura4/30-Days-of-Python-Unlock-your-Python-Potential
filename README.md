@@ -11,10 +11,13 @@ There are other scratch files from day 10 to 15. Uploaded part are the intergrat
 
 2. Web Scrapping 
 
-Use yelp website to check the html. 
+Use yelp website as example to web scrap by beautifulsoup
 
 Since html format is different from the course material, I just try to scrap partial data
 
 3. Web Scraping on Javascript Driven HTML
 
-need to download chromedriver.exe aside the execute path
+Use selenium to open Javascript-Driven HTML website
+
+In the lesson, instructer use webdriver.Firefox() but I use webdriver.Chrome() in program. 
+It is required to download chromedriver.exe inside the execute path
